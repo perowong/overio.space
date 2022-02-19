@@ -40,5 +40,5 @@ module.exports = {
         icon: `static/app-icon.png`, // This path is relative to the root of the site.
       },
     },
-  ].filter(Boolean),
+  ],
 }
