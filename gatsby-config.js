@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteTitle: `Overio`,
-    siteTitleAlt: `Overio - Overio Portfolio`,
+    siteTitleAlt: `Overio - mind place`,
     siteHeadline: `Overio - Overio space`,
     siteUrl: `https://overio.space`,
     siteDescription: `massive knowledge over I/O`,
@@ -28,7 +28,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Overio - Overio Portfolio`,
+        name: `Overio - mind place`,
         short_name: `Overio`,
         description: `massive knowledge over I/O`,
         start_url: `/`,

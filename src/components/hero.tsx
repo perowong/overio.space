@@ -1,8 +1,8 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
-import Divider from "./elements/divider"
-import Inner from "./elements/inner"
-import Content from "./elements/content"
+import Divider from "../elements/divider"
+import Inner from "../elements/inner"
+import Content from "../elements/content"
 import Svg from "./svg"
 import { UpDown, UpDownWide } from "../styles/animations"
 // @ts-ignore
