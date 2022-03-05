@@ -30,7 +30,7 @@ const Footer = () => {
           marginTop: 100
         }}
       >
-       <a href="http://beian.miit.gov.cn/">滇ICP备2022000793号-1</a>
+       <a href="http://beian.miit.gov.cn/">滇ICP备2022000793号-2</a>
       </Flex>
     </Box>
   )
